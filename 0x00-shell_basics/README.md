@@ -1,1 +1,2 @@
-pwd: print working directory
+pwd: print current directory
+ls: list it
